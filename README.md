@@ -3,7 +3,7 @@ Este repositorio documenta casos prácticos resueltos de **Soporte Técnico IT N
 
 ## 📌 Sobre este proyecto
 Aqui guardo:
-- Casos reales que resolviendo.
+- Casos reales que fui resolviendo.
 - Explicaciones paso a paso.
 - Diagnósticos, soluciones y resultados.
 - Validaciones y aprendizajes técnicos.
