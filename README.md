@@ -21,10 +21,3 @@ El objetivo es **demostrar habilidades prácticas** para roles de Soporte IT o H
 7. Alta de usuario en Active Directory
 
 *(Cada caso está documentado con escenario, pasos, diagnóstico, solución y aprendizaje.)*
-
-## 📚 Cómo está organizado
-
-📁 **/casos/** – Documentación de cada caso en archivos individuales  
-📁 **/templates/** – Plantillas para documentar nuevos casos
-
-
