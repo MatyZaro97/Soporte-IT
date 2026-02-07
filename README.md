@@ -1,4 +1,4 @@
-#  📂 Respositorio - Soporte IT 
+#  📂 Repositorio - Soporte IT 
 Este repositorio documenta casos prácticos resueltos de **Soporte Técnico IT Nivel 1**  enfocados en **Windows, Active Directory y Redes**
 
 ## 📌 Sobre este proyecto
