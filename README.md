@@ -13,11 +13,12 @@ El objetivo es **demostrar habilidades prácticas** para roles de Soporte IT o H
 ## 🧠 Casos incluidos
 
 1. Inicio de sesión en dominio con falla de autenticación (AD + DNS)
-2. Políticas de grupo (GPO) que no aplican
-3. Problemas de DHCP y asignación de IP
-4. Acceso a recursos compartidos con permisos
-5. Relación de confianza rota en dominio
-6. Análisis de lentitud en recursos de red
-7. Alta de usuario en Active Directory
+2. Equipo no reconocido en el dominio
+3. Políticas de grupo (GPO) que no aplican
+4. Problemas de DHCP y asignación de IP
+5. Acceso a recursos compartidos con permisos
+6. Relación de confianza rota en dominio
+7. Análisis de lentitud en recursos de red
+8. Alta de usuario en Active Directory
 
 *(Cada caso está documentado con escenario, pasos, diagnóstico, solución y aprendizaje.)*
