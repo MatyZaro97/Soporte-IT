@@ -1,6 +1,7 @@
 # Usuario no inicia sesión en dominio 
 
-Escenario: Usuario no puede loguearse con su cuenta de dominio en una PC corporativa.
+Escenario: 
+Usuario no puede loguearse con su cuenta de dominio en una PC corporativa.
 
 Diagnostico:
 • El usuario no logra iniciar sesión en el dominio.
@@ -15,10 +16,11 @@ Diagnostico:
 
 Solución:
 • Se configura correctamente el DNS en la PC del usuario, apuntando al servidor de dominio.
-• Se limpio la caché con el comando 
-  - **ipconfig /flushdns** .
+• Se limpio la caché con el comando: 
+  - **ipconfig /flushdns**
 • Se reinicia la máquina y se intenta nuevamente el inicio de sesión.
 
 Resultado:
 • PC del usuario logra resolver el dominio correctamente.
 • El usuario puede iniciar sesión en el dominio sin incovenientes. 
+
