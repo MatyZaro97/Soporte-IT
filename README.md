@@ -21,4 +21,4 @@ El objetivo es **demostrar habilidades prácticas** para roles de Soporte IT o H
 7. Análisis de lentitud en recursos de red
 8. Alta de usuario en Active Directory
 
-*(Cada caso está documentado con escenario, pasos, diagnóstico, solución y aprendizaje.)*
+*(Cada caso está documentado con escenario, pasos, diagnóstico y solución)*
